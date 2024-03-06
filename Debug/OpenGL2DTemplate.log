@@ -1,0 +1,7 @@
+﻿  P11-52-9190 - Omar Adel.cpp
+C:\Users\DELL\OneDrive\Desktop\Assignment 1\GraphicsAssignment1\Print_On_Screen\OpenGL2DTemplate\P11-52-9190 - Omar Adel.cpp(678,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\OneDrive\Desktop\Assignment 1\GraphicsAssignment1\Print_On_Screen\OpenGL2DTemplate\P11-52-9190 - Omar Adel.cpp(684,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\OneDrive\Desktop\Assignment 1\GraphicsAssignment1\Print_On_Screen\OpenGL2DTemplate\P11-52-9190 - Omar Adel.cpp(775,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DELL\OneDrive\Desktop\Assignment 1\GraphicsAssignment1\Print_On_Screen\OpenGL2DTemplate\P11-52-9190 - Omar Adel.cpp(873,9): warning C4551: function call missing argument list
+P11-52-9190 - Omar Adel.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL2DTemplate.vcxproj -> C:\Users\DELL\OneDrive\Desktop\Assignment 1\GraphicsAssignment1\Print_On_Screen\OpenGL2DTemplate\Debug\OpenGL2DTemplate.exe
